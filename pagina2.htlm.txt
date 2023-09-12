@@ -1,0 +1,25 @@
+<html>
+<head> 
+<title> Seconda pagina web </title>
+</head>
+<body>
+<h1> Benvenuti nella mia seconda pagina web </h1> 
+<p> La Grecia (in greco Ελλάδα?, Elláda), ufficialmente Repubblica Ellenica (in greco Ελληνική Δημοκρατία?, Ellīnikī Dīmokratía, AFI: [eliniˈki ðimokɾaˈtia]) è uno Stato dell'Europa meridionale, posto sul lembo meridionale della penisola balcanica. È una repubblica parlamentare unitaria e la capitale è la città di Atene. La lingua ufficiale è il greco moderno.
+
+Il tratto peninsulare confina a nord con Albania, Macedonia del Nord, Bulgaria e Turchia ed è bagnato sugli altri lati dal mar Egeo, dal mar Ionio e dal mare di Creta. Amministra in totale oltre 6 000 isole, 227 delle quali abitate.[5]
+
+La Grecia è considerata come l'ideale successore della civiltà micenea, dell'antica Grecia e dell'Impero bizantino, oltre che una delle culle della civiltà occidentale e patria della primordiale democrazia[6], della filosofia[7], del cristianesimo ortodosso e dei principi artistici, geometrici e teologici cristiani oltre che dei Giochi olimpici antichi, la cui eredità è stata colta dalle moderne Olimpiadi.
+
+La Repubblica affonda le sue radici nella guerra d'indipendenza greca combattuta nel XIX secolo contro l'Impero ottomano, che diede vita alla Prima Repubblica ellenica. Con la convenzione di Londra del 1832 si stabilì la nascita del Regno di Grecia, rovesciato una prima volta nel 1924 con la nascita della Seconda Repubblica ellenica, e una seconda volta nel 1968 con il colpo di stato guidato dai colonnelli Geōrgios Papadopoulos, Nikolaos Makarezos e Ioannis Ladas, che diede vita alla Dittatura dei colonnelli. La moderna Repubblica nacque nel 1974 con la fine del regime militare.
+
+Nonostante una forte recessione causata dalla crisi economica degli anni 2010, la Grecia è considerata uno Stato sviluppato, al trentaduesimo posto nella scala mondiale per indice di sviluppo umano e con un reddito pro capite di 20 317 $ (dati aggiornati al 2019). È uno dei 51 Stati che nel 1945 ha aderito all'Organizzazione delle Nazioni Unite e dal 1981 è parte prima della Comunità economica europea e poi dell'Unione europea e ha adottato l'Euro con gran parte degli altri paesi nel 2002; è inoltre membro dell'Organizzazione del Trattato dell'Atlantico del Nord (NATO) dal 1952[8], dell'Organizzazione per la cooperazione e lo sviluppo economico (OCSE) dal 1961, e membro fondatore dell'Organizzazione della cooperazione economica del mar Nero (BSEC) e dell'Agenzia spaziale europea (ESA)[9].
+
+Tra le maggiori città vi sono la capitale, Atene, che ha ospitato i Giochi olimpici moderni nel 1896 e nuovamente nel 2004, Salonicco, talvolta chiamata anche Symprōteyousa (in greco Συμπρωτεύουσα?, letteralmente: "co-capitale")[10], Patrasso, principale centro del Peloponneso, e Candia, capoluogo e maggiore centro abitato dell'isola di Creta. </p>
+<a href="index.html"> Ritorna alla homepage </a>
+</body>
+<!-- Piè di pagina-->
+<footer>
+<p> copyright 2023 by nome sito tutti i diritti riservati </p>
+</footer> 
+</html> 
+
